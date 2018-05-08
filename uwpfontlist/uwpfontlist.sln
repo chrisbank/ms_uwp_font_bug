@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uwpfontlist", "uwpfontlist\uwpfontlist.vcxproj", "{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Debug|ARM.Build.0 = Debug|ARM
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Debug|ARM.Deploy.0 = Debug|ARM
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Debug|x64.ActiveCfg = Debug|x64
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Debug|x64.Build.0 = Debug|x64
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Debug|x64.Deploy.0 = Debug|x64
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Debug|x86.Build.0 = Debug|Win32
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Debug|x86.Deploy.0 = Debug|Win32
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Release|ARM.ActiveCfg = Release|ARM
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Release|ARM.Build.0 = Release|ARM
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Release|ARM.Deploy.0 = Release|ARM
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Release|x64.ActiveCfg = Release|x64
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Release|x64.Build.0 = Release|x64
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Release|x64.Deploy.0 = Release|x64
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Release|x86.ActiveCfg = Release|Win32
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Release|x86.Build.0 = Release|Win32
+		{DBFC4E24-B5AE-4DE1-B47C-6ECEC063235B}.Release|x86.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05A685C8-E22E-41B6-A82E-35DE7BB9A702}
+	EndGlobalSection
+EndGlobal
